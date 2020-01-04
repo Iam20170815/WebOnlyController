@@ -2,6 +2,8 @@ server:
   port: 8082
 
 spring:
+  application:
+    name: demo
   datasource:
     username: root
     password: Cmb%2019
@@ -12,13 +14,18 @@ spring:
     min-idle: 5
     initial-size: 5
 
+#mybatis:
+#  mapper-locations: classpath:mapping/*Mapping.xml
+#  type-aliases-package: com.example.demo.domain
 mybatis:
-  mapper-locations: classpath:mapping/*Mapping.xml
-  type-aliases-package: com.example.demo.domain
+  mapper-locations: classpath*:mapping/*Mapping.xml
+  type-aliases-package: com.ssp.subdemo.domain
 
 #showSql
 logging:
   level:
     com:
-      example:
-        mapper : debug
+      ssp:
+        subdemo:
+          dao:
+            mapper : debug

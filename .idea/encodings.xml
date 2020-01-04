@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java/com/ssp/demo/DemoApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java/com/ssp/demo/Swagger2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java/com/ssp/demo/controller/TestController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java/com/ssp/demo/dto/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java/com/ssp/demo/service/CheckInParmService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feign-api" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feign-api/src/main/java/com/ssp/feign/controller/FeignController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/subdemo" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/subdemo/src/main/java/com/ssp/subdemo/common/MyException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/subdemo/src/main/java/com/ssp/subdemo/dao/mapper/CardDOMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/subdemo/src/main/java/com/ssp/subdemo/domain/CardDO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/subdemo/src/main/java/com/ssp/subdemo/service/CardDOService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/subdemo/src/main/java/com/ssp/subdemo/service/SubtestService.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
